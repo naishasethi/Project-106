@@ -1,0 +1,30 @@
+body {
+    color:hsl(0, 0%, 0%);
+    background-color:cadetblue;
+}
+.heading {
+    width:80%;
+    font-size: 22px;
+}
+.nameofobjects {
+    color:chartreuse;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.result_object_name, .result_object_accuracy {
+color:coral;
+}
+.copy_right_footer {
+    position:fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: cornsilk;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
